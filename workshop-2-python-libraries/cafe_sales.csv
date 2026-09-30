@@ -1,0 +1,15 @@
+date,day_of_week,temp_c,is_weekend,cold_drinks_sold,revenue
+2024-06-01,Saturday,28.5,True,180,990.0
+2024-06-02,Sunday,31.2,True,225,1237.5
+2024-06-03,Monday,24.0,False,110,605.0
+2024-06-04,Tuesday,,False,95,522.5
+2024-06-05,Wednesday,22.1,False,85,467.5
+2024-06-06,Thursday,26.4,False,130,715.0
+2024-06-07,Friday,33.0,False,240,1320.0
+2024-06-08,Saturday,35.5,True,310,1705.0
+2024-06-09,Sunday,29.0,True,205,1127.5
+2024-06-10,Monday,19.5,False,60,330.0
+2024-06-11,Tuesday,21.0,False,75,412.5
+2024-06-12,Wednesday,27.8,False,150,825.0
+2024-06-13,Thursday,30.1,False,,1072.5
+2024-06-14,Friday,32.4,False,230,1265.0
